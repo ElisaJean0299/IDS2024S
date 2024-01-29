@@ -8,5 +8,5 @@
 **University:** University of Texas at Arlington  
 **Level:** Undergraduate - Freshman  
 **Position Title:** Student  
-**Cource Webpage:** www.cdslab.org/IDS2024S  
-**Photo**
+**Cource Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
+**Photo:**  ![A photo of Elisa Vasquez]()
