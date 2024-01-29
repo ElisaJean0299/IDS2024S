@@ -9,4 +9,5 @@
 **Level:** Undergraduate - Freshman  
 **Position Title:** Student  
 **Cource Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
-**Photo:**  ![A photo of Elisa Vasquez]()
+**Photo:**  ![A photo of Elisa Vasquez](ProfessionalPhoto.jpg)  
+
