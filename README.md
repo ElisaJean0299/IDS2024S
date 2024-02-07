@@ -26,3 +26,5 @@ Elisa Vasquez
 ejv8753@mavs.uta.edu  
 Student in the Department of Engineering  
 University of Texas at Arlington  
+
+This is a message from laptop command line.
