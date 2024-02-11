@@ -6,4 +6,7 @@
    git add --all is used to add files into the staging area.  
    git commit -m"latest build" is used to add a commitment in the gitbash operating system towards the project.  
    git push --all is used to push the changes in the local repository to the remote repository.  
+
+BONUS QUESTIONS:  
 5. [Here is my website for my GitHub account](https://elisajean0299.github.io/)  
+6. Absolute path is embedded into the system, there are no other path to take. Meanwhile, in relative path, there are many different routes to take.  
