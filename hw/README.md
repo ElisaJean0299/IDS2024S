@@ -1,2 +1,2 @@
 This folder contains my homework submissions.  
-[Homework1](hw/1)
+[Homework1](/1)
