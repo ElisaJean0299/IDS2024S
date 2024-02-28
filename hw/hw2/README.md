@@ -33,9 +33,11 @@
 22. A powerful computer with more CPU cycles can be slower than a computer with less CPU cycles because of the CPU cycles. If there are more CPU cycles in a powerful computer, it will take longer for the computer to do those certains that were asked. However, if there was less CPU cycles in computer that wasn't as powerful, they can be faster because the cycles are shorter.   
 23. The bottleneck of speed in modern computers are the CPU clocks because depending on how fast the speed is, it will genuinely outperform the processors. Which is why you have to compare and look at the different modes to know which has a better processor speed and get more tasks done quicker.   
 24. Dennard Scaling is the same as MOSFET scaling. Dennard Scaling implies that the more transistors we use in a computer, the faster the CPU process goes. Moore's law predicted that transitors would increase double each two years, to which his prediction lasted for many decades.   
-25. (Answer)   
-26. (Answer)
-27. The three fundamental components of a Turing-comlete language are:
+25.
+    1. 36    
+27.
+    1. 2080   
+29. The three fundamental components of a Turing-comlete language are:
     1. Data
     2. Class
     3. Action
