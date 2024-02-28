@@ -1,2 +1,3 @@
 This folder contains all my quizzes.  
-[Quiz 1](../quiz/1)
+[Quiz 1](../quiz/1)   
+[Quiz 2](../quiz/2)
