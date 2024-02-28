@@ -1,4 +1,4 @@
-1. [Programming Language Puzzle](progLangChartPuzzle.pdf)   
+1. ![Programming Language Puzzle](progLangChartPuzzle.pdf)   
    Languages in Chonological Order:   
    1954 - FORTRAN   
    1958 - Lisp and Algol 58   
